@@ -1,7 +1,8 @@
 #Something I do a lot- Jon Owings
 #VMware View and Citrix VDI Calculator 
-require 'sinatra'
 require 'rubygems'
+require 'sinatra'
+
 
 ioPerBlock = 8200.00
 diskOvr = 0.91
